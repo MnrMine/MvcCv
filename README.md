@@ -18,7 +18,7 @@ Proje, ASP.NET Framework, SQL Server, MVC, CSS, ve HTML kullanılarak geliştiri
 # Oluşturulan Model
 ![model](https://github.com/MnrMine/MvcCv/assets/148393149/44d97df4-87de-4140-8dab-d46047f11662)
 # Hakkımda
-![hakkımda](https://github.com/MnrMine/MvcCv/assets/148393149/07cf69a2-eb6b-43ef-bb3a-3475f6d30ebd)
+![1](https://github.com/MnrMine/MvcCv/assets/148393149/dfb5fa4a-b9e0-440f-b6be-8a0607def786)
 # Deneyimlerim 
 ![deneyimlerim](https://github.com/MnrMine/MvcCv/assets/148393149/b9d091af-4620-4b8b-8b6e-e87eb09041e3)
 # Login 
